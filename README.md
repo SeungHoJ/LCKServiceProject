@@ -7,7 +7,10 @@
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.3 ~ 2024.4-green?style=flat&logo=&logoColor=white" />]()
 
-</div> 
+</div>
+
+## 📝 소개
+LCK 경기를 실시간으로 시청하며 승부예측을 통하여 포인트로 상품 응모 및 커뮤니티 사이트입니다.
 
 ## ⚙ 기술 스택
 ### Back-end
