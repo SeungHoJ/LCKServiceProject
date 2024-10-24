@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>LCK SERVICE</h2>
+<h1>LCK SERVICE</h1>
 
 ### LCK 경기정보 제공 및 승부예측 사이트✅
 
